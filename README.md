@@ -7,7 +7,9 @@
 ### DEMO
 
 **Desktop**
-![Screenshot](demo/desktop.png)
+
+<img width="1433" alt="desktop" src="https://github.com/Pralish/danphe_align_center/assets/50227291/37e455a2-162f-4988-b944-dc670e25761e">
+
 
 **Mobile**
-![Screenshot](demo/mobile.png)
+<img width="536" alt="Screenshot 2023-07-07 at 10 50 34 AM" src="https://github.com/Pralish/danphe_align_center/assets/50227291/f7c3bd31-4fbe-4906-986b-540b779cad35">
